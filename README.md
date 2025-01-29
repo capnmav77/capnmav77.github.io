@@ -1,1 +1,1 @@
-My personal site, forked from ![riggraz](https://github.com/riggraz/no-style-please), also thanks to ![GK]{https://github.com/capemox} for the idea.
+My personal site, forked from [riggraz](https://github.com/riggraz/no-style-please), also thanks to [GK](https://github.com/capemox) for the idea.
