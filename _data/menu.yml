@@ -2,14 +2,14 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: Welcome to Capnmav's site/blog! I dabble in Systems and AI stuff!
+  - title: Welcome to Ramesh's site/blog! I dabble in Systems and AI stuff!
     entries:
       - title: about
         url: about
       - title: x/twitter
         url: https://x.com/Rusty181920
-      # - title: github repo
-      #   url: https://github.com/riggraz/no-style-please
+      - title: github 
+        url: https://github.com/capnmav77
       # - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
   - title: all posts
     post_list:
