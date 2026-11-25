@@ -2,6 +2,7 @@
 layout: post
 title: "FX Forecaster: Quantile Prediction with Sentiment-Fused LSTMs"
 usemathjax: true
+categories: low-level-latency-optimization
 ---
 
 *February 11, 2026*

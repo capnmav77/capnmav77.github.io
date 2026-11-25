@@ -2,9 +2,10 @@
 layout: post
 title: "FX Forecaster in C: From 5s to 600ms by Cutting What You Don't Need"
 usemathjax: true
+categories: low-level-latency-optimization
 ---
 
-*February 18, 2026*
+*March 18, 2026*
 
 ---
 

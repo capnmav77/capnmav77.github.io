@@ -10,6 +10,9 @@
   iframe {
     filter: invert(1);
   }
+  .hl-all-posts, .hl-retrieval, .hl-lowlevel {
+    filter: invert(1);
+  }
 }
 
 body[a="dark"] { @include dark-appearance; }
@@ -95,4 +98,36 @@ img {
   max-width: 100%;
   display: block;
   margin: 0 auto;
+}
+
+.hl-all-posts {
+  background: #dbeafe;
+  color: #1d4ed8;
+  padding: 0.1rem 0.4rem;
+  border-radius: 3px;
+}
+
+.hl-retrieval {
+  background: #dcfce7;
+  color: #15803d;
+  padding: 0.1rem 0.4rem;
+  border-radius: 3px;
+}
+
+.hl-lowlevel {
+  background: #ffedd5;
+  color: #c2410c;
+  padding: 0.1rem 0.4rem;
+  border-radius: 3px;
+}
+
+.mermaid {
+  width: 100%;
+  overflow-x: auto;
+  text-align: center;
+
+  svg {
+    max-width: 100%;
+    height: auto;
+  }
 }

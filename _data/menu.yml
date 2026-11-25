@@ -12,21 +12,31 @@ entries:
         url: https://github.com/capnmav77
       # - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
   - title: all posts
+    highlight: hl-all-posts
     post_list:
       limit: 5
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
 
-  # - title: posts by category
-  #   post_list:
-  #     category: example2
-  #     show_more: true
-  #     show_more_text: See more posts...
-  #     show_more_url: example2-archive.html
+  - title: retrieval
+    highlight: hl-retrieval
+    post_list:
+      category: retrieval
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: retrieval-archive.html
 
-  # - title: rss
-  #   url: feed.xml
+  - title: low-level latency optimization
+    highlight: hl-lowlevel
+    post_list:
+      category: low-level-latency-optimization
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: low-level-latency-optimization-archive.html
+
+  - title: rss
+    url: feed.xml
   
   # - title: another list
   #   entries:
